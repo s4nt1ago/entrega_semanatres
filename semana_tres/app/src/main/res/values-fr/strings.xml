@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">semana_tres</string>
+    <string name="mensaje">Bienvenu</string>
+    <string name="boton">Entrer</string>
+</resources>
